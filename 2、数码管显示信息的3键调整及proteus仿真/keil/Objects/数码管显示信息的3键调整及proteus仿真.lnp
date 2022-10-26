@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\数码管显示信息的3键调整及proteus仿真" 
+PRINT(".\Listings\数码管显示信息的3键调整及proteus仿真.m51")
